@@ -4,12 +4,12 @@ A simple terminal-based Rock Paper Scissors game written in C. This project was 
 
 ## Features
 
-* Play Rock Paper Scissors against the computer
-* Random computer move generation
-* Input validation
-* Case-insensitive player input
-* Clean terminal output formatting
-* Modular source code organization
+- Play Rock Paper Scissors against the computer
+- Random computer move generation
+- Input validation
+- Case-insensitive player input
+- Clean terminal output formatting
+- Modular source code organization
 
 ## Project Structure
 
@@ -58,8 +58,8 @@ The game function returns:
 
 ### Requirements
 
-* GCC compiler
-* Make
+- GCC compiler
+- Make
 
 ### Compile
 
@@ -103,27 +103,27 @@ Winner     : Computer 🎉
 
 This project helped practice:
 
-* C enums
-* Header files (`.h`) and source files (`.c`)
-* Function declarations and definitions
-* Pointers
-* Random number generation
-* Input validation
-* Code organization
-* Makefiles
-* Modular programming
+- C enums
+- Header files (`.h`) and source files (`.c`)
+- Function declarations and definitions
+- Pointers
+- Random number generation
+- Input validation
+- Code organization
+- Makefiles
+- Modular programming
 
 ## Future Improvements
 
 Possible improvements:
 
-* Add multiple rounds
-* Add score tracking
-* Add difficulty levels
-* Add colored terminal output
-* Add command-line arguments
-* Add automated tests
+- Add multiple rounds
+- Add score tracking
+- Add difficulty levels
+- Add colored terminal output
+- Add command-line arguments
+- Add automated tests
 
 ## Reference
 
-The initial idea for this project was inspired by a Rock Paper Scissors tutorial from GeeksforGeeks. The implementation was redesigned and rewritten to practice better C project structure and organization.
+The initial idea for this project was inspired by a [Rock Paper Scissors tutorial](https://www.geeksforgeeks.org/c/rock-paper-scissor-in-c/) from GeeksforGeeks. The implementation was redesigned and rewritten to practice better C project structure and organization.
