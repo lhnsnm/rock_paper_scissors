@@ -5,7 +5,7 @@ CFLAGS = -Wall -Wextra -Wpedantic -std=c17
 
 build:
 	mkdir -p build
-	$(CC) -g $(CFLAGS) src/main.c src/game.c src/helper.c src/message.c -o build/main
+	$(CC) -g $(CFLAGS) src/*.c -o build/main
 
 run: build
 	./build/main
