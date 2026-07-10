@@ -54,6 +54,7 @@ int main()
     else
     {
         puts("Invalid result!");
+        return 1;
     }
 
     return 0;
