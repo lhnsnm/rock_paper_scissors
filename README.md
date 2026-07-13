@@ -76,7 +76,7 @@ make run
 Or manually:
 
 ```bash
-gcc -std=c17 -Wall -Wextra -Wpedantic src/*.c -o build/main
+gcc -std=c17 -Wall -Wextra -Wpedantic -g -Iinclude src/*.c -o build/main
 ./build/main
 ```
 
